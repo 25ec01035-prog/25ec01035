@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 print("Python :", sys.version.split()[0])
 print("numpy :", np.__version__)
 print("pandas :", pd.__version__)
-print("commit 1")
+print("commit 2")
 
 # a one-line smoke test of the plotting back-end
 plt.plot([0, 1, 2, 3], [0, 1, 4, 9], marker="o")
