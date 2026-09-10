@@ -1,8 +1,8 @@
 import pandas as pd
-df = pd.read_csv("id-vds.csv")
+df = pd.read_csv("id-vds .csv")
 print ("column names:")
 print (df.columns)
-print ("\n shape:")
+print ("\nshape:")
 print (df.shape)
-print ("\n statistical summary:")
+print ("\nstatistical summary:")
 print(df.describe())
